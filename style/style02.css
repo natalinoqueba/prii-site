@@ -1,0 +1,32 @@
+.primeira {
+    min-height: 170px;
+    position: relative;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.primeira img {
+    position: absolute;
+    border-radius: 3px;
+    width: 40%;
+    margin-left: 10px;
+    box-shadow: -2px 2px 2px rgba(0, 0, 0, 0.342);
+}
+
+.segunda{
+    position: absolute;
+    right: 2%;
+    top: 6%;
+    border-radius: 2px;
+    width: 200px;
+    font-size: small;
+    padding: 10px;
+    background-color: #4d241af1;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.342);
+}
+
+.segunda h2, .segunda p{
+    color: white;
+    padding: 0px 5px 5px 5px;
+}
