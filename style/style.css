@@ -197,15 +197,16 @@ footer div {
     padding: 10px;
     background-color: #473c3a;
     color: white;
+    text-align: center;
 }
 
 footer div p,
 footer div address {
-    padding: 5px 10px 10px 10px;
+    margin-top: 5px;
+    padding: 5px;
 }
 
 #ft {
-    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
 }
